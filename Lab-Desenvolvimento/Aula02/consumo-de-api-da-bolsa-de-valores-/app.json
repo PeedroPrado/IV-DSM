@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "consumo-de-api-da-bolsa-de-valores-",
+    "slug": "snack-934612bc-5446-4b26-bc06-c9a2ad2df18b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Atividade desenvolvida na matéria de Laboratório de Desenvolvimento Web"
+  }
+}
